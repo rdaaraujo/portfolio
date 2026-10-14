@@ -9,7 +9,7 @@ export const site = {
   tagline:
     "Mais de 9 anos de experiência no setor financeiro, mantendo sistemas legados e construindo integrações modernas.",
   // Caminho de uma foto dentro de /public (ex.: "/foto.jpg"). Vazio = mostra as iniciais.
-  photo: "",
+  photo: "public/fotoPerfil.jpeg",
   links: {
     github: "https://github.com/rdaaraujo",
     linkedin: "https://www.linkedin.com/in/rdaaraujo",
