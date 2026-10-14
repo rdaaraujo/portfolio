@@ -7,13 +7,13 @@ export const site = {
   location: "Marília, SP",
   url: "https://rdaaraujo.com",
   tagline:
-    "Mais de 3 anos de experiência no setor financeiro, mantendo sistemas legados e construindo integrações modernas.",
+    "Mais de 9 anos de experiência no setor financeiro, mantendo sistemas legados e construindo integrações modernas.",
   // Caminho de uma foto dentro de /public (ex.: "/foto.jpg"). Vazio = mostra as iniciais.
   photo: "",
   links: {
     github: "https://github.com/rdaaraujo",
-    linkedin: "", // preencher: https://www.linkedin.com/in/seu-perfil
-    email: "", // preencher: contato@rdaaraujo.com
+    linkedin: "https://www.linkedin.com/in/rdaaraujo",
+    email: "rafaelalmeidaaraujo@outlook.com",
   },
 };
 
@@ -27,7 +27,7 @@ export const nav = [
 ];
 
 export const about = [
-  "Sou desenvolvedor back-end na Paschoalotto, empresa de recuperação de crédito e serviços financeiros em Marília, SP. Tenho mais de 3 anos de experiência e trabalho com a manutenção de sistemas legados e a construção de integrações modernas.",
+  "Sou desenvolvedor back-end na Paschoalotto, empresa de recuperação de crédito e serviços financeiros em Marília, SP. Tenho mais de 9 anos de experiência e trabalho com a manutenção de sistemas legados e a construção de integrações modernas.",
   "Meu stack principal é C#, VB6, Python, R e PostgreSQL (PL/pgSQL), com APIs REST e Git no dia a dia. Estou cursando Análise e Desenvolvimento de Sistemas na UNIMAR e evoluindo para Full-Stack com .NET e React, com foco no ecossistema Microsoft/Azure.",
 ];
 
