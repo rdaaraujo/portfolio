@@ -1,14 +1,13 @@
 // Todo o conteúdo do site fica aqui. Edite este arquivo para atualizar textos, links e projetos.
 
 export const site = {
-  name: "Rafael Araujo",
+  name: "Rafael Araújo",
   initials: "RA",
   role: "Desenvolvedor Back-End",
   location: "Marília, SP",
   url: "https://rdaaraujo.com",
   tagline:
     "Mais de 9 anos de experiência no setor financeiro, mantendo sistemas legados e construindo integrações modernas.",
-  // Caminho de uma foto dentro de /public (ex.: "/foto.jpg"). Vazio = mostra as iniciais.
   photo: "/fotoPerfil.jpeg",
   links: {
     github: "https://github.com/rdaaraujo",
@@ -27,8 +26,8 @@ export const nav = [
 ];
 
 export const about = [
-  "Sou desenvolvedor back-end na Paschoalotto, empresa de recuperação de crédito e serviços financeiros em Marília, SP. Tenho mais de 9 anos de experiência e trabalho com a manutenção de sistemas legados e a construção de integrações modernas.",
-  "Meu stack principal é C#, VB6, Python, R e PostgreSQL (PL/pgSQL), com APIs REST e Git no dia a dia. Estou cursando Análise e Desenvolvimento de Sistemas na UNIMAR e evoluindo para Full-Stack com .NET e React, com foco no ecossistema Microsoft/Azure.",
+  "Atuando como desenvolvedor Back-End na Paschoalotto, empresa de recuperação de crédito e serviços financeiros em Marília, SP. Tenho pouco mais de 9 anos de experiência na área e trabalho atualmente com a manutenção de sistemas legados e a construção de integrações modernas.",
+  "Meu stack principal é C#, VB6, PostgreSQL (PL/pgSQL), com APIs REST e Git/Azure no dia a dia. Estou cursando Análise e Desenvolvimento de Sistemas na UNIMAR e buscando evolução para Full-Stack com .NET e React, com foco no ecossistema Microsoft/Azure.",
 ];
 
 export const experience = [
